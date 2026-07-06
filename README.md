@@ -1,8 +1,3 @@
-<p align="center">
-
-<img src="Images/00_GitHub_Banner.png" width="100%">
-
-</p>
 
 # 📊 Meta Ad Performance Dashboard
 ### End-to-End Business Intelligence Project using Microsoft Power BI
