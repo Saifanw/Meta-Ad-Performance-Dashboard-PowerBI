@@ -1,43 +1,66 @@
-# 📊 Meta Ad Performance Dashboard | End-to-End Business Intelligence Project
+# 📊 Meta Ad Performance Dashboard
+### End-to-End Business Intelligence Project using Microsoft Power BI
 
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-success?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-purple?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-End--to--End-orange?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-purple?style=for-the-badge)
 
 </p>
 
 ---
 
-# 🚀 Project Overview
+# 📖 About The Project
 
-This project demonstrates a complete **Business Intelligence (BI) workflow** using **Microsoft Power BI** to analyze **Meta (Facebook & Instagram) advertising performance**.
+Modern businesses invest heavily in digital advertising across platforms like **Facebook** and **Instagram**.
 
-Instead of focusing only on dashboard design, this project follows the complete BI development lifecycle—from understanding business requirements to delivering interactive business insights.
+Every campaign generates thousands of records containing impressions, clicks, engagements, purchases, audience information, campaign details, and marketing budgets.
 
-The solution converts raw marketing data into meaningful information that enables decision-makers to monitor campaign performance, evaluate customer engagement, analyze advertising effectiveness, and optimize marketing investments.
+Although this data is valuable, raw datasets alone cannot answer important business questions.
+
+This project demonstrates how raw marketing data can be transformed into an interactive **Business Intelligence Dashboard** using Microsoft Power BI.
+
+The dashboard provides a complete analytical view of advertising performance by combining **Power Query**, **Data Modeling**, **DAX**, **Time Intelligence**, and **Interactive Visualizations** into one reporting solution.
 
 ---
 
-# 🎯 Business Goal
+# 🎯 Business Problem
 
-Marketing teams invest significant budgets across multiple advertising campaigns on Facebook and Instagram.
+Marketing teams need quick answers to questions such as:
 
-However, answering questions such as:
+- Which campaign performs the best?
+- Which advertisement type generates higher engagement?
+- Which customer segment is more responsive?
+- Where is the marketing budget being utilized?
+- How does campaign performance change over time?
+- Which regions produce the highest engagement?
 
-- Which campaign is performing the best?
-- Which audience is more engaged?
-- Which ad type generates better CTR?
-- Which country contributes the highest engagement?
-- How does engagement change over time?
-- Which campaigns require optimization?
+Without an interactive BI solution, answering these questions requires manual analysis across multiple datasets.
 
-can be difficult when data is spread across multiple tables.
+This dashboard solves that problem by presenting meaningful insights through interactive reports.
 
-This dashboard provides a centralized Business Intelligence solution to answer these questions through interactive visual analytics.
+---
+
+# 🚀 Solution
+
+The solution follows the complete Business Intelligence development lifecycle.
+
+✔ Business Requirement Analysis
+
+✔ Data Cleaning using Power Query
+
+✔ Data Modeling (Star Schema)
+
+✔ DAX Measure Development
+
+✔ Time Intelligence
+
+✔ Interactive Dashboard Design
+
+✔ Business Insights Generation
 
 ---
 
@@ -55,194 +78,109 @@ This dashboard provides a centralized Business Intelligence solution to answer t
 
 ---
 
-# ⭐ Project Highlights
+# ✨ Key Features
 
-### Business Intelligence
+## Business Intelligence
 
-- End-to-End BI Development
-- Business Requirement Analysis
-- Marketing Analytics
-- KPI Monitoring
+- End-to-End BI Workflow
+- Marketing Performance Analysis
+- Executive KPI Dashboard
 - Interactive Reporting
 
-### Data Preparation
+## Data Preparation
 
 - Data Cleaning
-- Data Transformation
-- Power Query
+- Power Query Transformations
 - Data Validation
-- Relationship Management
+- Optimized Data Structure
 
-### Data Modeling
+## Data Modeling
 
 - Star Schema Design
 - Fact & Dimension Tables
-- Optimized Relationships
+- Relationship Modeling
 - Calendar Table
 - Field Parameters
 
-### Advanced Analytics
+## Advanced Analytics
 
 - DAX Measures
 - Time Intelligence
-- Dynamic Measure Selection
-- KPI Calculations
-- Marketing Performance Analysis
+- Dynamic KPI Selection
+- Marketing KPI Analysis
 
-### Dashboard Development
+## Dashboard Development
 
-- Executive KPI Cards
-- Interactive Slicers
+- KPI Cards
+- Dynamic Measure Selector
+- Interactive Tooltips
 - Geographic Analysis
 - Demographic Analysis
 - Weekly Trend Analysis
 - Hourly Trend Analysis
-- Tooltip Pages
-- Conditional Formatting
+- Campaign Performance Analysis
 
 ---
 
-# 🛠 Technologies Used
+# 🛠 Technology Stack
 
 | Category | Technology |
 |-----------|------------|
-| BI Tool | Microsoft Power BI |
-| Data Transformation | Power Query |
+| Business Intelligence | Microsoft Power BI |
+| Data Preparation | Power Query |
 | Data Modeling | Star Schema |
-| Language | DAX |
-| Dataset | Excel (.csv/.xlsx) |
-| Reporting | Interactive Dashboard |
-| Analytics | Business Intelligence |
+| Analytics | DAX |
+| Time Intelligence | Calendar Table |
+| Dataset | Excel / CSV |
+| Visualization | KPI Cards, Charts, Maps, Slicers & Tooltips |
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
-The dashboard provides interactive analysis of the following marketing KPIs:
+The dashboard tracks the following business metrics:
 
-- Total Impressions
-- Total Clicks
-- Total Shares
-- Total Comments
-- Total Purchases
-- Total Engagements
+- Impressions
+- Clicks
+- Shares
+- Comments
+- Purchases
+- Engagements
 - Click Through Rate (CTR)
 - Engagement Rate
 - Conversion Rate
 - Purchase Rate
-- Total Marketing Budget
+- Total Budget
 - Average Budget per Campaign
 
 ---
 
-> 📌 **This project demonstrates practical Business Intelligence skills including data preparation, data modeling, DAX development, time intelligence, and interactive dashboard design to support data-driven marketing decisions.**
+> 💡 **This project demonstrates practical Business Intelligence skills by transforming raw advertising data into an interactive analytical dashboard using Microsoft's modern BI ecosystem.**
 >
 > ---
 
-# 💼 Business Problem
+# 🔄 Project Workflow
 
-Digital marketing teams invest millions of dollars across Meta platforms such as **Facebook** and **Instagram** to run advertising campaigns.
-
-However, marketing data is often distributed across multiple datasets, making it difficult to answer important business questions in real time.
-
-Some of the common business challenges include:
-
-- Which advertising campaign delivers the highest engagement?
-- Which ad type performs better?
-- Which audience segment is the most responsive?
-- How effective is the advertising budget?
-- Which geographic regions generate maximum engagement?
-- How do engagement and conversions change over time?
-- Which campaigns require optimization?
-
-Without an interactive Business Intelligence solution, answering these questions requires manual analysis and significant effort.
-
-This project addresses these challenges by transforming raw advertising data into an interactive analytical dashboard.
-
----
-
-# 🎯 Project Objectives
-
-The primary objective of this project is to develop an interactive Business Intelligence dashboard that enables stakeholders to monitor advertising performance and make data-driven marketing decisions.
-
-### Business Objectives
-
-- Monitor overall advertising performance.
-- Track marketing KPIs in real time.
-- Analyze campaign effectiveness.
-- Compare Facebook and Instagram performance.
-- Understand audience demographics.
-- Evaluate advertising ROI.
-- Support strategic marketing decisions.
-
-### Technical Objectives
-
-- Perform data cleaning using Power Query.
-- Build a scalable Star Schema data model.
-- Create reusable DAX measures.
-- Implement Time Intelligence calculations.
-- Design an interactive dashboard.
-- Enable dynamic KPI selection using Field Parameters.
-- Deliver actionable business insights.
-
----
-
-# 🏢 Business Requirements
-
-The dashboard was designed to meet the following reporting requirements.
-
-### Executive Reporting
-
-- Overall campaign performance
-- Budget utilization
-- Marketing KPIs
-- Executive summary
-
-### Campaign Analysis
-
-- Campaign-wise performance
-- Ad type comparison
-- CTR analysis
-- Conversion analysis
-
-### Customer Analysis
-
-- Gender distribution
-- Age analysis
-- Geographic distribution
-- Interest-based segmentation
-
-### Time Analysis
-
-- Weekly trends
-- Hourly trends
-- Monthly calendar analysis
-- Time Intelligence reporting
-
----
-
-# 🔄 End-to-End Business Intelligence Workflow
-
-The project follows a complete Business Intelligence lifecycle.
+The dashboard was developed following a complete **Business Intelligence Development Lifecycle**, starting from business requirement analysis to delivering actionable insights through an interactive dashboard.
 
 ![Project Workflow](Images/06_Project_Workflow.png.png)
 
-### BI Development Process
+The workflow followed in this project:
 
 ```text
 Business Requirements
         ↓
 Data Collection
         ↓
-Power Query (Data Cleaning)
+Data Cleaning (Power Query)
         ↓
-Data Modeling
+Data Modeling (Star Schema)
         ↓
-DAX Development
+DAX Measure Development
         ↓
 Time Intelligence
         ↓
-Dashboard Development
+Interactive Dashboard Design
         ↓
 Business Insights
 ```
@@ -251,132 +189,79 @@ Business Insights
 
 # 📂 Dataset Overview
 
-The dashboard has been developed using multiple datasets that simulate Meta advertising performance.
-
-### Tables Used
+The project uses multiple datasets representing different aspects of Meta advertising performance.
 
 | Table | Description |
 |--------|-------------|
-| ads | Advertisement details including platform, campaign, audience and ad type |
-| ad_events | Event-level advertising activities and engagement records |
-| campaigns | Campaign information, duration and marketing budget |
-| users | User demographic information such as age, gender, location and interests |
-| Calendar Table | Custom date table created for Time Intelligence |
-| Dynamic Measure Table | Field Parameter table for KPI selection |
+| **ads** | Advertisement information such as platform, ad type, campaign ID and target audience |
+| **ad_events** | Event-level records including impressions, clicks, engagements and purchases |
+| **campaigns** | Campaign details such as budget, duration, start date and end date |
+| **users** | User demographics including age, gender, location and interests |
+| **Calendar Table** | Custom date table created for Time Intelligence |
+| **Dynamic Measure Table** | Field Parameter table used for KPI switching |
 
 ---
 
-# 📦 Dataset Relationships
+# 🧹 Data Cleaning & Transformation
 
-The project uses a **Star Schema** data model consisting of fact and dimension tables.
+Before building the dashboard, the raw datasets were transformed using **Power Query Editor** to improve data quality and reporting accuracy.
 
-Fact Table
+### Data Preparation Steps
 
-- ad_events
+- Removed duplicate records
+- Handled missing values
+- Corrected data types
+- Renamed columns for consistency
+- Standardized categorical values
+- Validated data integrity
+- Optimized tables for reporting
+- Prepared clean datasets for data modeling
 
-Dimension Tables
+These transformations ensure accurate calculations, efficient relationships, and reliable business insights.
+
+---
+
+# 🏗 Data Modeling
+
+The project follows a **Star Schema** approach, which is considered one of the best practices in Business Intelligence for performance and scalability.
+
+## Data Model
+
+![Data Model](Images/03_Data_Model_Star_Schema.png.png)
+
+### Model Structure
+
+### Fact Table
+
+- **ad_events**
+
+### Dimension Tables
 
 - ads
 - campaigns
 - users
 - Calendar Table
 
-Supporting Table
-
-- Dynamic Measure Selector
-
-This modeling approach improves performance, simplifies DAX calculations, and ensures efficient filtering across visuals.
-
----
-
----
-
-# 🧹 Data Cleaning & Transformation (Power Query)
-
-Before creating the dashboard, the raw advertising data was prepared and transformed using **Power Query Editor** to ensure high-quality and reliable reporting.
-
-### Data Cleaning Activities
-
-✔ Removed duplicate records
-
-✔ Checked and handled missing values
-
-✔ Corrected data types
-
-✔ Renamed columns for better readability
-
-✔ Standardized categorical values
-
-✔ Verified data consistency
-
-✔ Optimized tables for reporting
-
-✔ Prepared data for relationship modeling
-
-### Why Data Cleaning?
-
-Clean and well-structured data is essential for accurate reporting, efficient DAX calculations, and reliable business insights.
-
----
-
-# 🏗 Data Modeling
-
-A robust **Star Schema** data model was designed to establish efficient relationships between fact and dimension tables.
-
-This approach improves dashboard performance, simplifies filtering, and enables scalable report development.
-
-## Data Model
-
-![Data Model](Images/03_Data_Model_Star_Schema.png.png)
-
----
-
-## Data Model Architecture
-
-### Fact Table
-
-| Table | Purpose |
-|--------|---------|
-| **ad_events** | Stores event-level advertising interactions such as clicks, engagements, conversions, purchases, and timestamps. |
-
----
-
-### Dimension Tables
-
-| Table | Purpose |
-|--------|---------|
-| **ads** | Advertisement details including platform, campaign, ad type, target audience, and interests. |
-| **campaigns** | Campaign information including budget, duration, start date, and end date. |
-| **users** | User demographic details such as age, gender, country, and interests. |
-| **Calendar Table** | Custom date dimension used for Time Intelligence calculations. |
-
----
-
 ### Supporting Table
 
-| Table | Purpose |
-|--------|---------|
-| **Dynamic Measure Selector** | Field Parameter table used for switching KPIs dynamically. |
+- Dynamic Measure Selector (Field Parameters)
 
----
-
-# ⭐ Data Modeling Highlights
+### Data Modeling Highlights
 
 - Star Schema Design
 - One-to-Many Relationships
-- Fact & Dimension Modeling
-- Optimized Filtering
+- Optimized Relationship Model
 - Calendar Table Integration
 - Scalable Architecture
-- Performance-Oriented Model
+- Performance-Oriented Design
 
 ---
 
-# ⚡ DAX Development
+# ⚡ DAX Measures
 
-Multiple reusable DAX measures were created to calculate business KPIs and support interactive reporting.
+The dashboard uses DAX (Data Analysis Expressions) to create reusable business calculations and marketing KPIs.
 
-### Core Measures
+### KPI Measures
 
 - Total Impressions
 - Total Clicks
@@ -385,7 +270,7 @@ Multiple reusable DAX measures were created to calculate business KPIs and suppo
 - Total Purchases
 - Total Engagements
 
-### Marketing KPIs
+### Performance Metrics
 
 - Click Through Rate (CTR)
 - Engagement Rate
@@ -394,69 +279,54 @@ Multiple reusable DAX measures were created to calculate business KPIs and suppo
 - Total Budget
 - Average Budget per Campaign
 
-### Dynamic Measures
+### Dynamic Measure Selection
 
-The dashboard implements **Field Parameters** allowing users to switch between KPIs dynamically without creating multiple visuals.
+Field Parameters have been implemented to allow users to dynamically switch between different KPIs without creating multiple visuals.
 
-This improves dashboard usability while reducing report complexity.
+This improves dashboard usability while maintaining a clean and scalable report design.
 
 ---
 
 # 📅 Time Intelligence
 
-A dedicated **Calendar Table** was created to enable Time Intelligence calculations and trend analysis.
+A dedicated **Calendar Table** has been created to perform time-based analysis and trend reporting.
 
 ### Implemented Features
 
 - Custom Calendar Table
-- Month Analysis
-- Weekly Trend
-- Hourly Trend
+- Monthly Analysis
+- Weekly Trend Analysis
+- Hourly Trend Analysis
 - Date Hierarchy
 - Calendar Slicer
 - Time-Based Filtering
 
-These calculations allow users to analyze advertising performance across different time periods and identify seasonal or behavioral trends.
+Time Intelligence enables users to identify trends, compare performance across different periods, and support data-driven decision-making.
 
 ---
 
-# 💡 Interactive Dashboard Features
+# 🎛 Interactive Dashboard Features
 
-The dashboard includes multiple interactive components to enhance user experience and business analysis.
+The dashboard includes several interactive features to enhance user experience and analytical capabilities.
 
-## Implemented Features
+### Dashboard Capabilities
 
-✔ Dynamic Measure Selector
+- Executive KPI Cards
+- Dynamic Measure Selector
+- Interactive Tooltips
+- Campaign Filters
+- Target Interest Filters
+- Geographic Map Visualization
+- Demographic Analysis
+- Weekly & Hourly Trend Analysis
+- Cross Filtering
+- Responsive Dashboard Layout
 
-✔ Interactive Tooltips
+## Tooltip Preview
 
-✔ KPI Cards
+![Tooltip Preview](Images/04_Tooltip_KPI_Cards.png.png)
 
-✔ Calendar Slicer
-
-✔ Campaign Filters
-
-✔ Target Interest Filters
-
-✔ Cross Filtering
-
-✔ Geographic Map Analysis
-
-✔ Weekly Trend Analysis
-
-✔ Hourly Trend Analysis
-
-✔ Demographic Analysis
-
-✔ Ad Type Performance Comparison
-
----
-
-## 🎯 Tooltip Preview
-
-![Tooltip](Images/04_Tooltip_KPI_Cards.png.png)
-
-The tooltip page provides additional KPI details when users hover over dashboard visuals, allowing deeper analysis without cluttering the main dashboard.
+The tooltip page provides additional KPI details on hover, enabling users to explore deeper insights without overcrowding the main dashboard.
 
 ---
 
@@ -464,40 +334,60 @@ The tooltip page provides additional KPI details when users hover over dashboard
 
 # 📈 Dashboard Insights
 
-The dashboard provides meaningful business insights by transforming raw advertising data into actionable information.
+The dashboard transforms raw advertising data into meaningful business insights that help marketing teams evaluate campaign performance, optimize advertising spend, and improve decision-making.
 
-## Marketing Insights
+## Marketing Performance Analysis
 
-### Campaign Performance
-
-- Monitor campaign-level performance using interactive filters.
-- Compare campaign effectiveness across different advertising strategies.
-- Track advertising budget utilization.
-
-### Audience Analysis
-
-- Analyze engagement distribution by gender.
-- Identify the most active age groups.
-- Explore geographic engagement across different countries.
-- Analyze audience interests for better targeting.
-
-### Advertisement Analysis
-
-- Compare Image, Video, Stories, and Carousel advertisements.
-- Measure Click Through Rate (CTR).
-- Evaluate Engagement Rate.
-- Analyze Purchase Rate and Conversion Rate.
-
-### Time-Based Analysis
-
-- Monitor Weekly Engagement Trends.
-- Analyze Hourly Engagement Trends.
-- Perform Monthly calendar-based analysis.
-- Identify performance fluctuations over time.
+- Compare campaign performance across Facebook and Instagram.
+- Monitor advertising KPIs using interactive filters.
+- Identify high-performing campaigns.
+- Track campaign budget utilization.
 
 ---
 
-# 🖼 Dashboard Screenshots
+## Audience Insights
+
+- Analyze engagement by gender.
+- Identify the most active age groups.
+- Explore engagement by country.
+- Understand audience interests for better campaign targeting.
+
+---
+
+## Advertisement Insights
+
+Compare the performance of different advertisement formats:
+
+- Image Ads
+- Video Ads
+- Stories
+- Carousel Ads
+
+The dashboard allows users to evaluate:
+
+- Click Through Rate (CTR)
+- Engagement Rate
+- Conversion Rate
+- Purchase Rate
+
+to determine the most effective advertising strategy.
+
+---
+
+## Time-Based Insights
+
+The dashboard enables users to analyze performance across multiple time dimensions.
+
+- Monthly Performance
+- Weekly Engagement Trends
+- Hourly Engagement Trends
+- Calendar-Based Analysis
+
+This helps identify seasonal patterns and peak engagement periods.
+
+---
+
+# 📸 Dashboard Gallery
 
 ## Dashboard Overview
 
@@ -505,9 +395,9 @@ The dashboard provides meaningful business insights by transforming raw advertis
 
 ---
 
-## Interactive Filter View
+## Interactive Dashboard
 
-![Filtered Dashboard](Images/02_Dashboard_Filtered_View.png.png)
+![Interactive Dashboard](Images/02_Dashboard_Filtered_View.png.png)
 
 ---
 
@@ -523,15 +413,9 @@ The dashboard provides meaningful business insights by transforming raw advertis
 
 ---
 
-## Project Workflow
-
-![Workflow](Images/06_Project_Workflow.png.png)
-
----
-
 # 📁 Repository Structure
 
-```
+```text
 Meta-Ad-Performance-Dashboard-PowerBI
 │
 ├── Business_Requirements
@@ -545,109 +429,104 @@ Meta-Ad-Performance-Dashboard-PowerBI
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Skills Demonstrated
 
-| Category | Technologies |
-|-----------|--------------|
-| Business Intelligence | Microsoft Power BI |
-| ETL | Power Query |
-| Data Modeling | Star Schema |
-| Data Analysis | DAX |
-| Time Intelligence | Calendar Table |
-| Dataset | Excel / CSV |
-| Visualization | KPI Cards, Charts, Maps, Slicers, Tooltips |
+This project demonstrates practical Business Intelligence skills including:
 
----
-
-# 💡 Skills Demonstrated
-
-## Business Intelligence
+### Business Intelligence
 
 - Business Requirement Analysis
 - KPI Development
-- Dashboard Design
+- Interactive Reporting
 - Marketing Analytics
-- Data-Driven Decision Making
 
----
-
-## Data Preparation
+### Data Preparation
 
 - Data Cleaning
 - Data Transformation
 - Power Query
 - Data Validation
 
----
-
-## Data Modeling
+### Data Modeling
 
 - Star Schema
 - Fact & Dimension Tables
 - Relationship Modeling
 - Calendar Table
 
----
-
-## DAX
+### DAX Development
 
 - Calculated Measures
 - KPI Calculations
 - Dynamic Measure Selection
 - Time Intelligence
 
----
+### Dashboard Design
 
-## Dashboard Development
-
-- Interactive Visualizations
 - KPI Cards
-- Dynamic Slicers
+- Interactive Slicers
 - Tooltips
-- Geographic Analysis
+- Maps
 - Trend Analysis
-- Responsive Layout
+- Cross Filtering
+- Responsive Dashboard Design
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Future Enhancements
 
-This project can be further enhanced by implementing:
+The dashboard can be further enhanced by implementing:
 
-- SQL Database Integration
+- SQL Server Integration
 - Power BI Service Deployment
 - Incremental Refresh
 - Row Level Security (RLS)
-- Real-Time Streaming Data
 - Azure Data Factory Integration
-- Automated Refresh Schedule
+- Real-Time Data Streaming
+- Automated Dataset Refresh
 - Mobile Dashboard Optimization
+
+---
+
+# 🎯 Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- End-to-End Business Intelligence Workflow
+- Power Query Data Transformation
+- Data Modeling Best Practices
+- Star Schema Design
+- DAX Measure Development
+- Time Intelligence
+- Interactive Dashboard Design
+- Marketing Analytics
+- Data Visualization Principles
 
 ---
 
 # 👨‍💻 About Me
 
-Hi, I'm **Saif Anwar**, an aspiring **Power BI Developer** and **Business Intelligence Enthusiast** passionate about transforming raw data into meaningful business insights.
+Hi, I'm **Saif Anwar**, an aspiring **Power BI Developer** and **Business Intelligence Enthusiast**.
 
-I enjoy working on end-to-end BI projects involving:
+I enjoy building end-to-end BI solutions that transform raw data into meaningful insights using:
 
-- Business Requirement Analysis
-- Data Cleaning
+- Microsoft Power BI
+- Power Query
+- DAX
 - Data Modeling
-- DAX Development
-- Dashboard Design
-- Business Insights
+- Business Intelligence
+- Data Analytics
 
-I'm continuously improving my skills in Power BI, SQL, Excel, and Data Analytics while building practical portfolio projects.
-
----
-
-# ⭐ If you found this project helpful
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
-Feedback and suggestions are always welcome!
+I am continuously improving my skills by developing real-world portfolio projects focused on solving business problems through data.
 
 ---
 
-> **Thank you for visiting this repository!**
+# 🤝 Connect With Me
+
+If you have feedback, suggestions, or would like to connect, feel free to reach out through my GitHub or LinkedIn profile.
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+> **"Turning raw data into actionable business insights through Business Intelligence."**
